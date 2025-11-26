@@ -52,6 +52,28 @@ Anahtar Sonuçlar (sonuçlar) ve İnisiyatifler (çıktılar) arasındaki bu ayr
 
 John Doerr tarafından popüler hale getirilen basit ama güçlü formül, etkili OKR'ler yazmanın temel sözdizimini oluşturur: "Ben \[Hedef\]'e, ile ölçüldüğü şekilde ulaşacağım".2 Bu yapı, bir hedefin ne olduğunu (Hedef) ve başarının nasıl ölçüleceğini (Anahtar Sonuçlar) net bir şekilde birleştirir.
 
+##### **1.2.1 OKR'ları Sınıflandırma: Kapsam ve Amaç**
+
+OKR'ların gücünü tam olarak kullanmak için onları iki temel boyutta sınıflandırmak faydalıdır: **Kapsam** (kimin hedefi olduğunu belirtir) ve **Amaç** (hedefin doğasını belirtir).
+
+**1. Kapsama Göre Sınıflandırma**
+
+Bu sınıflandırma, OKR'ın organizasyonun hangi seviyesine ait olduğunu tanımlar.
+
+*   **Şirket OKR'ları:** Tüm organizasyon için en üst düzeydeki stratejik öncelikleri belirler. Genellikle yıllık olarak belirlenir ve tüm departman ve ekiplerin hedeflerine yön verir.
+*   **Takım OKR'ları:** En yaygın OKR türüdür. Belirli bir ekibin (mühendislik, pazarlama, ürün vb.) çeyrek veya dönem içindeki ortak önceliklerini temsil eder. Takım OKR'ları, şirket OKR'larına doğrudan katkı sağlamalıdır.
+*   **Bireysel OKR'lar:** Bir çalışanın kişisel gelişimine veya bireysel olarak yürüttüğü projelere odaklanır. Bu OKR'lar, kişinin kariyer hedeflerini desteklerken aynı zamanda takımın genel hedefleriyle de uyumlu olmalıdır.
+
+**2. Amacına Göre Sınıflandırma**
+
+Bu sınıflandırma, hedefin arkasındaki niyeti ve başarı beklentisini tanımlar. Bu, özellikle rehberin 3.3 bölümünde bahsedilen "Taahhüt Edilen" ve "İddialı" hedefler arasındaki ayrımı resmileştirir.
+
+*   **Taahhüt Edilen (Committed) OKR'lar:** Bunlar, ekibin veya bireyin başarmayı taahhüt ettiği hedeflerdir. Gerçekçi ancak zorlayıcıdır ve %100 tamamlanması beklenir. Kaynak planlaması bu hedeflerin başarılacağı varsayımına göre yapılır.
+*   **İddialı (Aspirational) OKR'lar:** "Moonshot" veya "esneme hedefi" olarak da bilinirler. Bunlar, sınırları zorlamak, büyük düşünmek ve inovasyonu teşvik etmek için tasarlanmıştır. Bu hedeflere giden yol net olmayabilir ve %100 başarı beklenmez; %70'lik bir başarı bile büyük bir zafer olarak kabul edilebilir.
+*   **Öğrenme (Learning) OKR'ları:** Sonucun belirsiz olduğu durumlarda bir hipotezi test etmek, yeni bir yaklaşımı denemek veya bir konuda bilgi toplamak için kullanılırlar. Başarı, hedefe ulaşmaktan ziyade, hipotezin doğrulanması veya yanlışlanmasıyla elde edilen net öğrenimle ölçülür. Örneğin, "Yeni bir önbellekleme stratejisinin p95 yanıt süresini en az %20 iyileştirip iyileştirmediğini 2 hafta içinde doğrulamak."
+
+Bir OKR'ı tanımlarken her iki boyutu da belirtmek (örn: Kapsam: `Takım`, Amaç: `İddialı`), hedefin hem sahibini hem de ruhunu net bir şekilde ortaya koyar.
+
 #### **1.3 Temel Felsefe: Çıktılardan Sonuçlara Temel Bir Zihniyet Değişimi**
 
 OKR felsefesindeki en kritik kavram, Çıktılar (Outputs) ve Sonuçlar (Outcomes) arasındaki ayrımdır. Bu ayrımı içselleştirmek, çerçevenin dönüştürücü gücünü ortaya çıkarmak için esastır.
@@ -213,6 +235,70 @@ Aşağıdaki tablo, bu döngünün pratik bir özetini sunmaktadır.
 | **Haftalık Kontroller** | İlerlemeyi izlemek, güven düzeylerini değerlendirmek ve engelleri erkenden belirlemek. | Haftalık (Sprint Planlama veya ayrı bir toplantıda). | KR ilerlemesini güncellemek, güven düzeylerini (Yolda, Risk Altında) belirtmek, engelleri tartışmak ve bir sonraki hafta için öncelikleri belirlemek. | "KR'lerimizde ilerleme kaydediyor muyuz?", "Hedeflerimize ulaşma konusunda ne kadar eminiz?", "Bizi ne yavaşlatıyor?" |
 | **Gözden Geçirme (Review)** | Elde edilen sonuçları değerlendirmek ve öğrenilenleri paylaşmak. | Çeyreğin sonunda. | KR'leri 0.0-1.0 ölçeğinde puanlamak, başarıları ve başarısızlıkları sunmak, elde edilen sonuçları ve öğrenilenleri tartışmak. | "Hedeflerimize ulaştık mı?", "Neden başarılı/başarısız olduk?", "Bu çeyrekte ne öğrendik?" |
 | **Retrospektif** | OKR *sürecini* iyileştirmek. | Çeyreğin sonunda veya bir sonraki çeyreğin başında. | Hedef belirleme, izleme ve gözden geçirme sürecinin etkinliğini tartışmak. "Başlat/Durdur/Devam Et" formatını kullanmak. | "Hedef belirleme sürecimizi nasıl daha iyi hale getirebiliriz?", "Kontrollerimiz etkili miydi?", "Bir sonraki döngü için neyi farklı yapmalıyız?" |
+
+#### **4.1.1 Anahtar Sonuçları İzlemek için Yapılandırılmış Bir Şablon**
+
+OKR döngüsünün "Sürekli İzleme" aşamasını etkili bir şekilde yönetmek ve her bir Anahtar Sonucun (KR) ilerlemesini standart hale getirmek için aşağıdaki yapılandırılmış şablonun kullanılması önerilir. Bu yapı, hem ekiplerin hem de otomasyon araçlarının (LLM ajanları dahil) KR'ın durumunu net bir şekilde anlamasını sağlar.
+
+**Ağırlıklandırma Konsepti**
+
+Bir Hedefin (Objective) genel ilerlemesini doğru bir şekilde hesaplamak için, o hedefe bağlı her bir Anahtar Sonuca (KR) farklı bir önem derecesi (ağırlık) atanabilir. Örneğin, bir KR diğerlerinden daha kritikse daha yüksek bir ağırlığa sahip olabilir. **Validasyon kuralı olarak, bir hedefe bağlı tüm KR'ların ağırlıklarının toplamı %100 olmalıdır.**
+
+Her KR'ın altına aşağıdaki "İzleme" bloğu eklenebilir:
+
+```markdown
+*   **İzleme:**
+    *   **Ağırlık:** [Bu KR'ın bağlı olduğu Hedef'e olan etkisini gösteren yüzde, örn: 40%]
+    *   **İlerleme:** [KR'daki mevcut ilerlemeyi gösteren yüzde değeri, örn: 0%]
+    *   **Hedef Tarih:** [KR'ın tamamlanması hedeflenen tarih, örn: YYYY-AA-GG]
+    *   **KR Tipi:** [Yüzdesel/Artan/Azalan]
+    *   **Değerler:**
+        *   **Minimum:** [Kısmi başarı sayılacak en düşük eşik değer]
+        *   **Hedef:** [KR'da belirtilen ana başarı ölçütü]
+        *   **Maksimum:** [Hedefin ötesine geçen esneme (stretch) hedefi]
+```
+
+**Alanların Açıklaması:**
+
+*   **Ağırlık:** Bu KR'ın, ait olduğu Hedef'in genel başarısına ne kadar katkıda bulunduğunu gösteren yüzde değeridir.
+*   **İlerleme:** KR'ın kendi hedefine ne kadar yaklaştığını gösteren sayısal bir değerdir. Genellikle yüzde (%) olarak ifade edilir ve başlangıçta `0%`'dır.
+*   **Hedef Tarih:** KR'ın tamamlanması için belirlenen son tarihtir.
+*   **KR Tipi:** Anahtar Sonucun nasıl ölçüldüğünü tanımlar: `Yüzdesel`, `Artan`, veya `Azalan`.
+*   **Değerler (Minimum, Hedef, Maksimum):** KR başarısını derecelendirmek için kullanılır.
+
+**Validasyon Kuralları**
+
+Bu yapının tutarlılığı için aşağıdaki kurallar uygulanmalıdır:
+
+*   **Ağırlık:**
+    *   Bir Hedef altındaki tüm KR'ların `Ağırlık` değerlerinin toplamı **tam olarak %100 olmalıdır**.
+    *   Değer, `%` sembolü ile biten bir dize (string) olmalıdır.
+*   **İlerleme:**
+    *   Değer, `0` ile `100` arasında olmalıdır.
+    *   Değer, `%` sembolü ile biten bir dize (string) olmalıdır.
+*   **Hedef Tarih:**
+    *   Değer, `YYYY-AA-GG` formatında geçerli bir tarih olmalıdır.
+*   **KR Tipi:**
+    *   Değer, `Yüzdesel`, `Artan`, `Azalan` seçeneklerinden biri olmalıdır.
+*   **Değerler:**
+    *   Tüm değerler (Minimum, Hedef, Maksimum) sayısal olmalıdır (birimler metin olarak eklenebilir, örn: `30% azalma`).
+    *   `Artan` tipindeki KR'lar için `Minimum <= Hedef <= Maksimum` ilişkisi geçerli olmalıdır.
+    *   `Azalan` tipindeki KR'lar için `Minimum >= Hedef >= Maksimum` ilişkisi geçerli olmalıdır.
+
+**Doldurulmuş Örnek:**
+
+> **Anahtar Sonuç:** Yeni mimari üzerinde geliştirilen bir özellik için ortalama "teslim süresini" (lead time for changes), eski mimariye kıyasla %30 azaltmak.
+> *   **İzleme:**
+>     *   **Ağırlık:** 50%
+>     *   **İlerleme:** 0%
+>     *   **Hedef Tarih:** 2025-12-31
+>     *   **KR Tipi:** Yüzdesel
+>     *   **Değerler:**
+>         *   **Minimum:** 15% azalma
+>         *   **Hedef:** 30% azalma
+>         *   **Maksimum:** 40% azalma
+
+Bu yapı ve kurallar, OKR'lerinizi yaşayan ve tutarlı bir şekilde takip edilen hedeflere dönüştürmenize yardımcı olur.
 
 #### **4.2 Scrum ile Sinerji: OKR Etkinliklerini Sprintler ve Seremonilerle Eşleştirmek**
 

@@ -1,0 +1,14 @@
+com\okr\app\OkrApplication.class
+com\okr\app\model\User.class
+com\okr\app\repository\ObjectiveRepository.class
+com\okr\app\repository\UserRepository.class
+com\okr\app\repository\KeyResultRepository.class
+com\okr\app\controller\OkrController.class
+com\okr\app\model\Objective.class
+com\okr\app\DataInitializer.class
+com\okr\app\repository\CompanyRepository.class
+com\okr\app\service\AiService.class
+com\okr\app\service\OkrService.class
+com\okr\app\controller\OkrController$ChatRequest.class
+com\okr\app\model\KeyResult.class
+com\okr\app\model\Company.class
