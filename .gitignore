@@ -1,2 +1,21 @@
 
+# TypeScript
+node_modules/
+dist/
+build/
+.tsbuildinfo
+*.js.map
+.env
+.vscode/
+
+# Java/Spring Boot
+.gradle/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+*.jar
+*.war
 **/target
+
