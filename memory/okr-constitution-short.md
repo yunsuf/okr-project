@@ -1,6 +1,52 @@
 # OKR Constitution - Quick Reference
 
+## Quick Start Formula
+
+> **"I will [Objective] as measured by [Key Results]"**
+
+**Example**: "I will **increase customer satisfaction** as measured by **NPS score increasing from 7 to 9**, **churn reducing from 10% to 5%**, and **publishing 15 customer case studies**."
+
+This simple template helps create well-formed OKRs in seconds.
+
+---
+
 ## Core Principles
+
+### 0. The 70% Rule ⭐
+
+**Target**: Achieving **65-70% of ambitious OKRs is EXCELLENT** (Google/Intel standard)
+
+| Score | Meaning | Next Action |
+|-------|---------|-------------|
+| 0-40% | Needs attention | Reassess or add resources |
+| 40-70% | **PERFECT** ✅ | Celebrate! This is the target. |
+| 70-90% | Great work | Well done, aim higher next time |
+| 90-100% | Possible sandbagging | Goals may be too easy |
+
+> "OKRs should be set high: the desired target overall average score is 65%..." - Google Engineering
+
+**Why?** Encourages ambitious goals without fear of "failure."
+
+---
+
+### ⚠️ CRITICAL WARNING: Never Tie OKRs to Compensation
+
+**NEVER** link OKRs directly to:
+- ❌ Performance reviews
+- ❌ Bonuses
+- ❌ Salary increases
+- ❌ Promotions
+
+**Why this destroys the system**:
+1. **Sandbagging**: People set easy goals to guarantee 100%
+2. **Risk aversion**: No one tries ambitious stretch goals
+3. **Gaming**: Focus on looking good vs doing good work
+
+> "OKRs are NOT used directly as input to performance appraisals." - Google
+
+**Correct approach**: OKRs are ONE input among many for performance discussions.
+
+---
 
 ### 1. Outcomes Over Outputs
 - **Key Results must be OUTCOMES** (measurable results/impact), NOT outputs (tasks/deliverables)
